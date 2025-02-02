@@ -1,6 +1,14 @@
 # LV-Portable
 An easily deployable version of LupineVault.com
 
+### Ever wanted to deploy your very own LupineVault.com, but didn't have 30gb of free storage?
+
+## Now you can!
+
+Instructions:
+
+Just deploy to any static hosting provider. It can be a subdomain (e.g. `sub.domain.com`), but it cannot be a subpage (e.g. `domain.com/page`)
+
 ## Deploy Links:
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/LupineVault/LV-Portable)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/LupineVault/LV-Portable)
