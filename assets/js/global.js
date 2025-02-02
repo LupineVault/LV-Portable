@@ -1,7 +1,7 @@
 // Function to fetch the JSON file
 async function fetchFiles() {
     try {
-        const response = await fetch("../assets/games.json"); // Path to your games.json
+        const response = await fetch("https://glcdn.githack.com/tf7software/LupineVault/-/raw/main/assets/games.json"); // Path to your games.json
         if (!response.ok) throw new Error("Failed to fetch JSON");
         const data = await response.json();
         return data;
