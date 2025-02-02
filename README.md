@@ -14,7 +14,7 @@ There are currently ```410``` games in the LupineVault.
 [![Join Our Reddit](https://img.shields.io/badge/Join%20Our-Reddit-orange)](https://www.reddit.com/r/LupineVault/)
 
 # How to deploy:
-Just deploy to any static hosting provider. It can be a subdomain (e.g. `sub.domain.com`), but it cannot be a subpage (e.g. `domain.com/page`)
+Just deploy to any static hosting provider. It can be a subdomain (e.g. `sub.domain.com`), but it cannot be a subpage (e.g. `domain.com/page`), so GitHub Pages is not reccomended
 
 ## Quick-Deploy Links:
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/LupineVault/LV-Portable)
