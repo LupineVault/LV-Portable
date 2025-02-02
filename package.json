@@ -1,0 +1,26 @@
+{
+  "private": false,
+  "name": "LupineVault",
+  "description": "An online HTML5 game archive",
+  "homepage": "https://github.com/LupineVault/",
+  "license": "CC BY-NC-SA",
+  "author": [
+    {
+      "name": "tf7software",
+      "url": "https://github.com/tf7software",
+      "email": "rhenrywarren@gmail.com"
+    },
+    {
+      "name": "InfinityLoop",
+      "url": "https://github.com/infinityloop1",
+      "email": "infinityloop5@icloud.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LupineVault/LupineVault"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
