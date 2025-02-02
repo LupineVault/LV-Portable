@@ -1,4 +1,6 @@
 <div align="center">
+
+# This is LupineVault Portable, which is 53 times smaller than the normal repo.
   
 # ![LupineVault Title](assets/images/tinyTitle.png)
 
@@ -6,146 +8,28 @@ A collection of over 400 HTML5 games with cloaking and integrated chat
 
 </div>
 
-There are currently ```403``` games in the LupineVault.
+There are currently ```410``` games in the LupineVault.
 
 [![Join Our Discord](https://img.shields.io/badge/Join%20Our-Discord-purple)](https://discord.gg/Ex2nZUWuHF) [![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)](https://gitlab.com/tf7software/LupineVault/-/commits/main)
 [![Join Our Reddit](https://img.shields.io/badge/Join%20Our-Reddit-orange)](https://www.reddit.com/r/LupineVault/)
 
+# How to deploy:
+Just deploy to any static hosting provider. It can be a subdomain (e.g. `sub.domain.com`), but it cannot be a subpage (e.g. `domain.com/page`)
 
----
-### Pesky game blocker? No problem.
-Copy this code and paste it into your browser. May not bypass all web blockers.
-```
-data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiID8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMTI4MCA3MjAiPgogICAgPHRpdGxlPkdvb2dsZTwvdGl0bGU+CiAgICA8Zm9yZWlnbk9iamVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICAgICAgICA8ZW1iZWQgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiIHNyYz0iaHR0cHM6Ly9uZXZlcmV2ZXJ1c2V0aGlzZm9yYW55dGhpbmdiZXNpZGVzZGF0YWxpbmtzZm9ybHVwaW5ldmF1bHQuOTg4MjEzNi54eXovIiB0eXBlPSJ0ZXh0L3BsYWluIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAvPgogICAgPC9mb3JlaWduT2JqZWN0Pgo8L3N2Zz4K
-```
+## Quick-Deploy Links:
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/LupineVault/LV-Portable)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/LupineVault/LV-Portable)
+[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/LupineVault/LV-Portable)
+[![Deploy to Amplify Console](https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/LupineVault/LV-Portable)
+[![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/LupineVault/LV-Portable)
+[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/LupineVault/LV-Portable/archive/refs/heads/main.zip)
+[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/LupineVault/LV-Portable)
+[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/LupineVault/LV-Portable)
+[![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LupineVault/LV-Portable)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/LupineVault/LV-Portable&branch=Main&name=LV-Portable)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/LupineVault/LV-Portable)
+[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/LupineVault/LV-Portable)
 
-# Alt Domains:
-
-### New! Use [bit.ly/lupinev](https://bit.ly/lupinev) to view alt domains using GDocs, so it's unblocked *even* on a school chromebook!
-
-___Official:___
-```
-learningminds.tech
-```
-```
-moviesand.games
-```
-```
-0085624.xyz
-```
-```
-infofoc.us
-```
-```
-calculatorone.xyz
-```
-```
-tinytrekrc.shop
-```
-```
-grayfla.me
-```
-___Unofficial:___
-```
-lupinevault-alt.onrender.com
-```
-```
-edgenuity.global.ssl.fastly.net
-```
-```
-blooket.global.ssl.fastly.net
-```
-```
-math4free.global.ssl.fastly.net
-```
-___Embeds:___
-```
-sites.google.com/view/lupinevault/home
-```
-___Official (Proxy Only):___
-```
-uvstatic-vercel.vercel.app
-```
-```
-learn2study.infofoc.us
-```
-```
-edgenuity.pages.dev
-```
-```
-powerschools-sis.pages.dev
-```
-```
-pima-admin.pages.dev
-```
-```
-big-ideas-math.global.ssl.fastly.net
-```
-```
-1yxv18x202eg22-38cg.9882136.xyz
-```
-
-<sub>Over 96% of our games work on alt domains, but there are a few, such as buckshot roulette, that _may_ not work. Some official alt domains, such as learningminds.tech, and some embedding domains such as Google Sites, do not experience this issue.</sub>
-
-
-More to come...
-
-<sub>Pssst! Want to host an alt domain? Fork this repo (follow the instructions below), then meet [THESE](https://gitlab.com/tf7software/LupineVault#requirements-1) requirements!</sub>
-
----
-## Contributing
-
-### Games
-
-#### Requirements
-
-- Must be able to run statically
-- Must contain and run on an index.html file
-- Can be online
-- Keep it PG-13 or below (Mature is fine for shooting games)
-
-### How to get contributions in the vault:
-
-  Submit a request [HERE](https://lupinevault.com/request-game.html) for the fastest response time
-
-  _or_
-
-  Start a new issue or pull request
-
-  _or_
-
-  Contact us using [Discord](https://discord.gg/Ex2nZUWuHF)
-
-Can either be a ZIP file _or_ GitHub repo, __No download links besides GitHub__
-
----
-
-## Forks
-### Requirements
-
-- You must include attribution for this repo, tf7software, InfinityLoop, and the LupineVault organization on index.html, with hyperlinks for each
-- You must include the exact, unchanged attribution.txt file, which is currently located in the root of the LupineVault/LupineVault repository: [Link](https://gitlab.com/tf7software/LupineVault/-/raw/main/attribution.txt)
-- You must use the same license as the LupineVault/LupineVault repository [Link](https://gitlab.com/tf7software/LupineVault/-/raw/main/LICENSE)
-- You can also embed LupineVault in an iFrame using [Embeddr](https://embeddr.pages.dev/):
-```
-https://embeddr.pages.dev/embed#https://lupinevault.com/
-```
-
-
-## Deploy Links
----
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://gitlab.com/tf7software/LupineVault)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/tf7software/LupineVault)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/tf7software/LupineVault)
-[![Deploy to Amplify Console](https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://gitlab.com/tf7software/LupineVault)
-[![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://gitlab.com/tf7software/LupineVault)
-[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://gitlab.com/tf7software/LupineVault/-/archive/main/LupineVault-main.zip)
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://gitlab.com/tf7software/LupineVault)
-[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://gitlab.com/tf7software/LupineVault)
-[![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://gitlab.com/tf7software/LupineVault)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=gitlab.com/tf7software/LupineVault&branch=main&name=LupineVault)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://gitlab.com/tf7software/LupineVault)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/LupineVault/LupineVault)
 
 
 Inspired by InfinityLoop's [InfinityGamer](https://github.com/InfinityGamer-Game-Site) site, and was started by [tf7software](https://github.com/tf7software) and [InfinityLoop](https://github.com/InfinityLoop1)
