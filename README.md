@@ -1,4 +1,5 @@
 # LV-Portable
+## This is currently in beta, and some things such as the proxy do not work.
 An easily deployable version of LupineVault.com
 
 ### Ever wanted to deploy your very own LupineVault.com, but didn't have 30gb of free storage?
